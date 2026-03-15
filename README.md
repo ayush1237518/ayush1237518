@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush sharma</h1>
 # 💫 About Me:
-First-year Btech Computer Science student<br>Learning and building in public<br>Passionate about web development and problem-solving<br>I enjoy learning by building real projects<br><br>Reach me:ayushs9378@gmail.com
+First-year Btech Computer Science student<br>Learning and building in public<br>Passionate about web development and problem-solving<br>I enjoy learning by building real projects<br><br>
 
 
 ## 🌐 Socials:
