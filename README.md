@@ -4,7 +4,7 @@ First-year Btech Computer Science student<br>Learning and building in public<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ayushxsharma__) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ayushsharma9058) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushs9378@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ayushxsharma__) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ayushsharma9058) 
 <a href="https://www.leetcode.com/ayushs9058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushs9058" height="30" width="40" /></a>
 </p>
 
