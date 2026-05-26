@@ -1,6 +1,10 @@
 <h1 align="center"> Hi 👋, I'm Ayush sharma</h1>
 # 💫 About Me:
-First-year Btech Computer Science student<br>Learning and building in public<br>Passionate about web development and problem-solving<br>I enjoy learning by building real projects
+
+
+Cybersecurity Enthusiast | Full-Stack Web Developer
+
+A curious learner passionate about cybersecurity and web development. Constantly exploring new technologies, improving coding skills, and building projects that combine functionality with security.
 
 
 ## 🌐 Socials:
