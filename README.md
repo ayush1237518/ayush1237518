@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush sharma</h1>
+<h1 align="center"> Hi 👋, I'm Ayush sharma</h1>
 # 💫 About Me:
 First-year Btech Computer Science student<br>Learning and building in public<br>Passionate about web development and problem-solving<br>I enjoy learning by building real projects
 
@@ -11,8 +11,6 @@ First-year Btech Computer Science student<br>Learning and building in public<br>
 <a href="https://www.leetcode.com/ayushs9058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushs9058" height="30" width="40" /></a>
 </p>
 
-
-
 </p>
 
 # 💻 Tech Stack:
@@ -22,13 +20,8 @@ First-year Btech Computer Science student<br>Learning and building in public<br>
 ![](https://streak-stats.demolab.com/?user=ayush1237518&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayush1237518&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1237518&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=ayush1237518&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
