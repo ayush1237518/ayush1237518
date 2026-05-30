@@ -1,4 +1,6 @@
-<h1 align="center"> Hi 👋, I'm Ayush sharma</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Ayush+Sharma" />
+</h1>
 # 💫 About Me:
 
 
