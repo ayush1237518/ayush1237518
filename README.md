@@ -3,7 +3,6 @@
 </h1>
 # 💫 About Me:
 
-
 Cybersecurity Enthusiast | Web Developer
 
 A curious learner passionate about cybersecurity and web development. Constantly exploring new technologies, improving coding skills, and building projects that combine functionality with security.
