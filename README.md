@@ -8,6 +8,11 @@ Passionate about **Cybersecurity** and **Data Structures & Algorithms**, with a 
 
 </p>
 
+## 🚀 LeetCode Profile
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Ayushs9058?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
+</p>
 </p>
 
 
