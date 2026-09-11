@@ -3,7 +3,7 @@
 </h1>
 # 💫 About Me:
 
-Passionate about **Cybersecurity** and **Data Structures & Algorithms**, with a focus on network security, ethical hacking fundamentals, and problem-solving in Java. I enjoy building practical skills through hands-on projects, CTF-style learning, and consistent coding practice.
+Passionate about **Cybersecurity** and **Data Structures & Algorithms**, with a focus on network security, ethical hacking fundamentals, and problem-solving in Java. I enjoy building practical skills through hands-on projects and consistent coding practice.
 
 
 </p>
